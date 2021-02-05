@@ -1,2 +1,2 @@
 # RobyBot
-RobyBot é um chatbot para automação de algumas funções que auxíliam na vida de jogadores que administram organizações dentro do servidor em que fazem parte.
+RobyBot é um chatbot para automação de algumas funções administrativas que auxíliam à vida de membros e lideres de organizações dentro dos servidores em que fazem parte.
